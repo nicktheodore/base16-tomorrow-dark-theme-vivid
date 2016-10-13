@@ -1,7 +1,7 @@
 {
   "name": "base16-tomorrow-dark-theme-vivid",
   "theme": "syntax",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "An improved version of Atom's original Base16 Tomorrow Dark Theme with more vivid syntax highlighting",
   "keywords": [
     "base16",
