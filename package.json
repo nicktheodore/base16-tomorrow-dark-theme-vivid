@@ -1,14 +1,15 @@
 {
-  "name": "base16-tomorrow-dark-theme",
+  "name": "base16-tomorrow-dark-theme-vivid",
   "theme": "syntax",
-  "version": "1.3.0",
-  "description": "Base16 dark theme for Atom",
+  "version": "1.0.0",
+  "description": "An improved version of Atom's original Base16 Tomorrow Dark Theme with more vivid syntax highlighting",
   "keywords": [
     "base16",
     "dark",
+    "vivid",
     "syntax"
   ],
-  "repository": "https://github.com/atom/base16-tomorrow-dark-theme",
+  "repository": "https://github.com/nicktheodore/base16-tomorrow-dark-theme-vivid",
   "license": "MIT",
   "engines": {
     "atom": ">0.49.0"
